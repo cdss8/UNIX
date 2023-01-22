@@ -1,0 +1,4 @@
+In Windows 
+
+compilator: g++ main.cpp -o test    (creation of new file "test")
+reader: ./test
