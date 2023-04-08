@@ -39,6 +39,7 @@ void consume()
 	}
 }
 
+//drawing the thread
 int main()
 {
 	thread thread1(provide);
